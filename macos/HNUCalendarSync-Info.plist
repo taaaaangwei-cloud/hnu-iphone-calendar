@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>海南大学课表同步</string>
+    <key>CFBundleExecutable</key>
+    <string>HNUCalendarSync</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.hnu.course-calendar.sync</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>海南大学课表同步</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>读取并更新独立的“海南大学课程”日历，以便同步课程变更且不产生重复事件。</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>将海南大学课程写入你的 iCloud 日历。</string>
+</dict>
+</plist>

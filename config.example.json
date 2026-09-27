@@ -1,0 +1,13 @@
+{
+  "semesterId": "2026-2027-1",
+  "semesterStartDate": "2026-08-31",
+  "timezone": "Asia/Shanghai",
+  "alertTimes": [30, 10],
+  "calendarName": "海南大学课程",
+  "baseUrl": "https://jxgl.hainanu.edu.cn",
+  "profileDirectory": ".local/browser-profile",
+  "dataDirectory": ".local/data",
+  "outputIcs": "outputs/hnu-courses.ics",
+  "maxWeeks": 21,
+  "syncIntervalMinutes": 60
+}
